@@ -1,4 +1,3 @@
-# Deeplearning_assignments
 This repository contains Google Colab notebooks related to student projects in deep learning and AI courses to highlight my experience in AI using TensorFlow and Neural networks.
 
 DL_GA_1: Designing and tuning a dense network. 
